@@ -1,2 +1,1 @@
-http://git.banmamedia.net/FE-HK/agency-mp-hk
-http://git.banmamedia.net/FE-HK/nestle-hk
+https://gitee.com/Shoestrong/vue-fullpage
